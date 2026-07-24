@@ -2,30 +2,33 @@
 <h3 align="center">Full-Stack Web Developer & IoT Engineer</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="csharp"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36" alt="react"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="36" height="36" alt="nextjs"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36" alt="nodejs"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="36" height="36" alt="express"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36" alt="mongodb"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" width="36" height="36" alt="arduino"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="36" height="36" alt="raspberrypi"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="36" height="36" alt="opencv"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="36" height="36" alt="git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="46" height="46" alt="javascript"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="46" height="46" alt="typescript"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="46" height="46" alt="csharp"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="46" height="46" alt="python"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="46" height="46" alt="react"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="46" height="46" alt="nextjs"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="46" height="46" alt="nodejs"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="46" height="46" alt="express"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="46" height="46" alt="mongodb"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="46" height="46" alt="materialui"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" width="46" height="46" alt="arduino"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="46" height="46" alt="raspberrypi"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="46" height="46" alt="opencv"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="46" height="46" alt="git"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/2%20Years%20Experience-Full--Stack%20%7C%20IoT-C9A227?style=for-the-badge&labelColor=0d0d0d" />
 </p>
 
 <p align="center">
   <a href="https://github.com/omarfaqeeh">
-    <img src="https://img.shields.io/badge/GitHub-omarfaqeeh-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-omarfaqeeh-0d0d0d?style=for-the-badge&logo=github&logoColor=C9A227&labelColor=0d0d0d" />
   </a>
+  &nbsp;
   <a href="https://mostaql.com/u/Omar_Faqeeh">
-    <img src="https://img.shields.io/badge/Portfolio-Mostaql-0e7c86?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-  <a href="mailto:omar.faqeehl2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-c1121f?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-Mostaql-0d0d0d?style=for-the-badge&logo=readthedocs&logoColor=C9A227&labelColor=0d0d0d" />
   </a>
 </p>
 
