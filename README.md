@@ -22,16 +22,6 @@
   <img src="https://img.shields.io/badge/2%20Years%20Experience-Full--Stack%20%7C%20IoT-C9A227?style=for-the-badge&labelColor=0d0d0d" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/omarfaqeeh">
-    <img src="https://img.shields.io/badge/GITHUB-omarfaqeeh-0d0d0d?style=for-the-badge&logo=github&logoColor=C9A227&labelColor=0d0d0d" />
-  </a>
-  &nbsp;
-  <a href="https://mostaql.com/u/Omar_Faqeeh">
-    <img src="https://img.shields.io/badge/PORTFOLIO-Mostaql-0d0d0d?style=for-the-badge&logo=readthedocs&logoColor=C9A227&labelColor=0d0d0d" />
-  </a>
-</p>
-
 ---
 
 ## About
@@ -52,6 +42,15 @@ Full-Stack Web Developer and IoT Engineer, 2 years of professional experience. C
 | UI | Material-UI (MUI) |
 | AI & Automation | Prompt Engineering, n8n Workflows, Context-Bound AI Assistants |
 | Tooling | Git |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omarfaqeeh&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=C9A227&icon_color=C9A227&text_color=e8e8e8" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarfaqeeh&theme=dark&hide_border=true&background=0d0d0d&ring=C9A227&fire=C9A227&currStreakLabel=C9A227" width="49%" />
+</p>
 
 ---
 
