@@ -1,41 +1,61 @@
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Siv Ram Shastri, Full Stack Web Developer :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
- <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-    </p>
+<h1 align="center">OMAR AHMAD ALFAQEEH</h1>
+<p align="center"><strong>FULL-STACK WEB DEVELOPER & IoT ENGINEER | ARCHITECTING NEXT-GEN ECOSYSTEMS</strong></p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<p align="center">
+  <a href="https://github.com/omarfaqeeh">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://mostaql.com/u/Omar_Faqeeh">
+    <img src="https://img.shields.io/badge/Portfolio-Mostaql-black?style=flat-square&logo=appveyor&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
-- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+---
 
-<h2 align="left">:heart: Let's get connected:</h2>
+## 🏛️ Executive Summary
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/sivramshastri) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
-[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
+Results-driven **Full-Stack Web Developer** and **IoT Engineer** with a solid foundation in building scalable administration dashboards (CRUD), high-throughput RESTful APIs, and complex automation workflows. Specializing in the MERN stack (Next.js, React, Node.js, MongoDB) alongside professional enterprise backend engineering using C#. Expert in orchestrating autonomous interactive systems, advanced computer vision environments, and embedding distributed logical pipelines into microcontrollers to bridge the gap between software logic and hardware execution.
+
+---
+
+## 🛠️ Core Stack & Programming Expertise
+
+### 💻 Software & Frameworks
+`C#` `JavaScript (ES6+)` `TypeScript` `Python` `React.js` `Next.js` `Node.js` `Express.js` `RESTful APIs`
+
+### ⚙️ Hardware & Robotics Architecture
+`Arduino Mega` `Raspberry Pi 5` `ESP32` `C++ for Arduino` `MicroPython` `Sensor Fusion & Actuators`
+
+### 📊 Libraries, UI & Workflows
+`OpenCV` `MediaPipe` `n8n Automation` `MUI (Material-UI)` `MongoDB` `Relational Database Design` `Git`
+
+---
+
+## 🚀 Featured Tech Innovations
+
+### 🌐 Mobtaker — Comprehensive AI & IoT Educational Ecosystem
+* **Architecture:** Deployed a comprehensive, enterprise-grade educational platform completely from scratch.
+* **Engineering:** Programmed an advanced visual *Code Lab Workspace* enabling step-by-step hardware-software project simulation and debugging. Integrated a custom context-bound AI Assistant, an advanced Gamification Engine (badges, points, stores), and an enterprise Multi-School Administrative Control Dashboard for deep educational analytics tracking.
+
+### 🤖 Autonomous Interactive Voice-Controlled Robot
+* **Award:** *Awarded 1st Place in Tech Innovation Competition.*
+* **Engineering:** Built a fully autonomous smart robot driven by Arduino Mega. Integrated a specialized computer vision environment leveraging OpenCV and MediaPipe, embedded real-time voice processing modules for vocal command execution, and designed precise robotic kinematics for object manipulation and environmental interaction.
+
+### 🏙️ Raspberry Pi 5 Infrastructure: Next-Gen Smart City Ecosystem
+* **Architecture:** Designed a fully integrated smart city simulation ecosystem driven by the high-performance Raspberry Pi 5 platform.
+* **Engineering:** Engineered real-time hardware-to-software integration layers linking web monitoring dashboards with localized microcontrollers. Built automated intelligent garages, dynamic fire detection/suppression algorithms, and automated security gate networks.
+
+### 🕋 Rabie Al-Qalb — Islamic & Geo-Location System
+* **Architecture:** Developed a high-fidelity Islamic application featuring a digital Quran reader and an optimized multi-reciter audio streaming engine.
+* **Engineering:** Integrated a secure user authentication system with a backend database for preference tracking. Integrated advanced Geographical Location APIs to compute precise local prayer times and global Qibla directions.
+
+---
+
+## 📊 AI Orchestration & Advanced Competencies
+* **Advanced Prompt Engineering:** Exceptionally effective in harnessing Artificial Intelligence systems, leveraging LLM orchestration methodologies to design optimal backend layouts and codebase architectures.
+* **Workflow Automation:** Expert in creating automated systems using **n8n** for operational efficiency, automated script generation, task tracking, and autonomous content curation layers.
+* **Core Methodologies:** Strong adherence to Core Computer Science Principles, Software Design Patterns, Clean Code Methodologies, and complex technical **Problem Solving**.
+
+---
+
+<p align="center"><em>"Turning abstract complex engineering logic into production-ready reality."</em></p>
