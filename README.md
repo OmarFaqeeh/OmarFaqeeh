@@ -1,61 +1,87 @@
-<h1 align="center">OMAR AHMAD ALFAQEEH</h1>
-<p align="center"><strong>FULL-STACK WEB DEVELOPER & IoT ENGINEER | ARCHITECTING NEXT-GEN ECOSYSTEMS</strong></p>
+<h1 align="center">Omar Ahmad Alfaqeeh</h1>
+<h3 align="center">Full-Stack Web Developer & IoT Engineer</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="csharp"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36" alt="react"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="36" height="36" alt="nextjs"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36" alt="nodejs"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="36" height="36" alt="express"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36" alt="mongodb"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" width="36" height="36" alt="arduino"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="36" height="36" alt="raspberrypi"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="36" height="36" alt="opencv"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="36" height="36" alt="git"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/omarfaqeeh">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-omarfaqeeh-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://mostaql.com/u/Omar_Faqeeh">
-    <img src="https://img.shields.io/badge/Portfolio-Mostaql-black?style=flat-square&logo=appveyor&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Mostaql-0e7c86?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+  <a href="mailto:omar.faqeehl2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-c1121f?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🏛️ Executive Summary
+## About
 
-Results-driven **Full-Stack Web Developer** and **IoT Engineer** with a solid foundation in building scalable administration dashboards (CRUD), high-throughput RESTful APIs, and complex automation workflows. Specializing in the MERN stack (Next.js, React, Node.js, MongoDB) alongside professional enterprise backend engineering using C#. Expert in orchestrating autonomous interactive systems, advanced computer vision environments, and embedding distributed logical pipelines into microcontrollers to bridge the gap between software logic and hardware execution.
-
----
-
-## 🛠️ Core Stack & Programming Expertise
-
-### 💻 Software & Frameworks
-`C#` `JavaScript (ES6+)` `TypeScript` `Python` `React.js` `Next.js` `Node.js` `Express.js` `RESTful APIs`
-
-### ⚙️ Hardware & Robotics Architecture
-`Arduino Mega` `Raspberry Pi 5` `ESP32` `C++ for Arduino` `MicroPython` `Sensor Fusion & Actuators`
-
-### 📊 Libraries, UI & Workflows
-`OpenCV` `MediaPipe` `n8n Automation` `MUI (Material-UI)` `MongoDB` `Relational Database Design` `Git`
+Full-Stack Web Developer and IoT Engineer, 2 years of professional experience. Core focus: scalable admin dashboards (CRUD), RESTful APIs, automation workflows, and hardware-software integration. Primary stack is MERN (Next.js, React, Node.js, MongoDB), with enterprise backend experience in C#. Also active in computer vision (OpenCV, MediaPipe) and embedded systems (Arduino, ESP32, Raspberry Pi 5), and builds AI-driven automation using prompt engineering and n8n workflows.
 
 ---
 
-## 🚀 Featured Tech Innovations
+## Tech Stack
 
-### 🌐 Mobtaker — Comprehensive AI & IoT Educational Ecosystem
-* **Architecture:** Deployed a comprehensive, enterprise-grade educational platform completely from scratch.
-* **Engineering:** Programmed an advanced visual *Code Lab Workspace* enabling step-by-step hardware-software project simulation and debugging. Integrated a custom context-bound AI Assistant, an advanced Gamification Engine (badges, points, stores), and an enterprise Multi-School Administrative Control Dashboard for deep educational analytics tracking.
-
-### 🤖 Autonomous Interactive Voice-Controlled Robot
-* **Award:** *Awarded 1st Place in Tech Innovation Competition.*
-* **Engineering:** Built a fully autonomous smart robot driven by Arduino Mega. Integrated a specialized computer vision environment leveraging OpenCV and MediaPipe, embedded real-time voice processing modules for vocal command execution, and designed precise robotic kinematics for object manipulation and environmental interaction.
-
-### 🏙️ Raspberry Pi 5 Infrastructure: Next-Gen Smart City Ecosystem
-* **Architecture:** Designed a fully integrated smart city simulation ecosystem driven by the high-performance Raspberry Pi 5 platform.
-* **Engineering:** Engineered real-time hardware-to-software integration layers linking web monitoring dashboards with localized microcontrollers. Built automated intelligent garages, dynamic fire detection/suppression algorithms, and automated security gate networks.
-
-### 🕋 Rabie Al-Qalb — Islamic & Geo-Location System
-* **Architecture:** Developed a high-fidelity Islamic application featuring a digital Quran reader and an optimized multi-reciter audio streaming engine.
-* **Engineering:** Integrated a secure user authentication system with a backend database for preference tracking. Integrated advanced Geographical Location APIs to compute precise local prayer times and global Qibla directions.
+| Category | Stack |
+|---|---|
+| Languages | JavaScript (ES6+), TypeScript, C#, Python |
+| Web Frameworks | Next.js, React.js, Node.js, Express.js |
+| Data | MongoDB, Relational DB Design |
+| Hardware / Embedded | Arduino Mega, ESP32, Raspberry Pi 5, C++ (Arduino), MicroPython |
+| Computer Vision | OpenCV, MediaPipe |
+| UI | Material-UI (MUI) |
+| AI & Automation | Prompt Engineering, n8n Workflows, Context-Bound AI Assistants |
+| Tooling | Git |
 
 ---
 
-## 📊 AI Orchestration & Advanced Competencies
-* **Advanced Prompt Engineering:** Exceptionally effective in harnessing Artificial Intelligence systems, leveraging LLM orchestration methodologies to design optimal backend layouts and codebase architectures.
-* **Workflow Automation:** Expert in creating automated systems using **n8n** for operational efficiency, automated script generation, task tracking, and autonomous content curation layers.
-* **Core Methodologies:** Strong adherence to Core Computer Science Principles, Software Design Patterns, Clean Code Methodologies, and complex technical **Problem Solving**.
+## Featured Projects
+
+### Mobtaker — AI & IoT Educational Ecosystem
+*Active / Present*
+Enterprise-grade AI and IoT educational platform built end-to-end. Includes a visual Code Lab Workspace for students to build, simulate, and debug hardware-software projects, a context-bound intelligent coding assistant, a gamification engine (micro-credentials, scoreboards, reward logic), and a Multi-School Administrative Command Dashboard for teacher oversight and analytics.
+`Next.js` `React.js` `MUI` `Node.js` `Express.js` `MongoDB` `Context-Bound AI Models` `Gamification Logic`
+
+### Autonomous Interactive Voice-Controlled Robot — 1st Place
+Smart robot built on Arduino Mega with an OpenCV/MediaPipe computer vision environment, interactive display feedback, real-time voice command processing, robotic kinematics for object manipulation, and calibrated temperature/humidity sensor feedback. Took first place in innovation tracking.
+`Arduino Mega` `C++ (Arduino)` `OpenCV` `MediaPipe` `Voice Recognition` `Robotics Kinematics`
+
+### Raspberry Pi 5 Infrastructure — Smart City Ecosystem
+Full smart-city simulation stack on Raspberry Pi 5. Real-time hardware-to-software integration layer linking web-based monitoring with local microcontrollers; automated garage system, fire detection/suppression, automated safety gates, and coordinated sensor/actuator networks for environmental monitoring.
+`Raspberry Pi 5` `Python` `MicroPython` `Sensor Fusion` `Actuator Logic` `Web-App Sync`
+
+### Rabie Al-Qalb — Islamic & Geo-Location System
+Islamic application with a full digital Quran reader and multi-reciter audio streaming. Secure auth workflow with backend persistence for user preferences. Geo-location APIs drive accurate local prayer times, Qibla direction, and historical Islamic calendar tracking, with a dynamic on-the-fly theming system.
+`Next.js` `Node.js` `MongoDB` `Geo-Location APIs` `Audio Streaming` `Dynamic Theming (MUI)`
 
 ---
 
-<p align="center"><em>"Turning abstract complex engineering logic into production-ready reality."</em></p>
+## Certifications
+
+- Introduction to Programming With C# — Microsoft (April 2026)
+- C# Programming Fundamentals Certification — IT Legend (April 2026)
+- Developing Back-End Apps with Node.js and Express — IBM (December 2025)
+- Generative AI and LLMs: Architecture and Data Preparation — IBM (April 2026)
+- Claude 101 Training Curriculum — Anthropic (June 2026)
+- CS50: Introduction to Computer Science — Harvard University
+
+---
+
+<p align="center"><i>Arabic: Native &nbsp;|&nbsp; English: Professional</i></p>
